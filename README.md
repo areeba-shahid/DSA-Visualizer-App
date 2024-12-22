@@ -21,11 +21,11 @@ A comprehensive Data Structures and Algorithms project, showcasing implementatio
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/areeba-shahid/DSA-Visualizer-App.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd visualizer_fp
    ```
 3. Install dependencies (if applicable):
    ```bash
